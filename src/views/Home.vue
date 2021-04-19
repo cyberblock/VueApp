@@ -13,7 +13,7 @@
                 ></v-date-picker>
             <v-card color="error" dark>
                <v-card-text class="display-1 text-center">
-                   {{valor}} 
+                   {{valor}}$ 
                 </v-card-text>
             </v-card>
         </v-flex>
